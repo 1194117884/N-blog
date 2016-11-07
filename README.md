@@ -1,6 +1,6 @@
 ## N-blog
 
-使用 Express + MongoDB 搭建多人博客  
+使用 Express + MongoDB 搭建多人博客  (fork 来自 nswbmw/N-blog)
 
 ## 目录
 
